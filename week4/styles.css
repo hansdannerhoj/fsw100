@@ -1,0 +1,15 @@
+.nav-bar{
+    position:fixed;
+    /* margin: 60px; */
+}
+.newtitle{
+    display: inline-block;
+    border: 3px solid;
+}
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+  }

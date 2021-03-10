@@ -36,8 +36,7 @@
    
 }
 @media only screen and (max-width: 768px){
-    .RowOne, .RowTwo, .RowThree, .RowFour, .RowFive{
-        background-color: black;
+    #RowOne, #RowTwo, #RowThree, #RowFour, #RowFive{
     grid-column: auto/span 4;
     }
     }
